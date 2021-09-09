@@ -19,3 +19,4 @@ Then, create a pull request!
 Just go to the pull requests! :)
 
 # Thank you!!!!
+I will also add my own excalidraw diagrams in here for all to see
