@@ -15,7 +15,7 @@ Run these commands:
 <br>
 Then, create a pull request!
 <br><br>
-## How do I view excalidraw diagrams other people uploaded?
+### How do I view excalidraw diagrams other people uploaded?
 Just go to the pull requests! :)
 
 # Thank you!!!!
